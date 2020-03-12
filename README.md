@@ -33,6 +33,11 @@ In a new Ubuntu window, Run
 
 Note: for this challenge, I create 'challenge.sql' within my confluent-5.4.1 Directory
 
+---
+**Description of query**
+
+The challange.sql script create a Stream 'click_stream'. Then create Stream 'filtering', 'min_sum', 'hour_sum' and 'Sessions' by querying the 'click_stream' Stream.
+
 
 
 
