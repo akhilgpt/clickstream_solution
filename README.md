@@ -22,6 +22,8 @@ Now Open ubuntu app And Installed latest confluent kafka package on ubuntu
 **Run command**\
 `./bin/ksql-server-start /etc/ksql/ksql-server.properties`
 
+![ksql](https://github.com/akhilgpt/clickstream_solution/blob/master/ksql.PNG)
+
 ---
 
 In a new Ubuntu window, Run
